@@ -25,3 +25,9 @@ Then, it sets a timer using setTimeout to print 'John' after waiting for 1 secon
  # When Person3() is called:
 It first immediately prints 'Doe' to the console.
 Then, it sets a timer using setTimeout to print 'John' after waiting for 1 second.
+ ## Final Output:
+            John
+            Ovi
+            Doe
+            Ali
+            John
