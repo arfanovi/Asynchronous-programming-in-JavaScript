@@ -8,23 +8,17 @@ function Person2(){
 }
 
 function Person3(){
+    setTimeout(() => {
+        console.log('Jhon')
+    }, 1000)
     console.log('Doe')
+}
+
+function Person4(){
+    console.log('Ali')
 }
 
 Person1();
 Person2();
 Person3();
 
-
-/*
-const Person = [
-    {Name: 'Ovi', Address: 'Dhaka Bangladesh', Chamber: 'Mirpur', Message: 'arfanovi@gmail.com'},
-    {Name: 'Jhon', Address: 'Rangpur Bangladesh', Chamber: 'Panchagarh', Message: 'jhon@gmail.com'}
-
-]
-
-// Declare Function 
-function getPost() {
-
-}
-*/
