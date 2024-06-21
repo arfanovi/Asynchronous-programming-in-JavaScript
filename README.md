@@ -31,3 +31,27 @@ Then, it sets a timer using setTimeout to print 'John' after waiting for 1 secon
             Doe
             Ali
             John
+
+
+
+
+
+* * 
+ # CallBack 
+    Callbacks are functions passed as arguments to other functions, intended to be executed later, often after an asynchronous operation completes.
+
+
+   * Function as an Argument:
+    Callbacks are functions passed as arguments to other functions.
+
+   * Execution Timing:
+    They are executed later, typically after a specific task completes, often asynchronously.
+
+   * Handling Asynchronous Operations:
+    Callbacks are commonly used for tasks like fetching data from a server or responding to user events.
+
+   * Event Handling:
+    In event-driven programming, callbacks define actions triggered by events like clicks or hovers.
+
+   * Error Handling:
+    Callbacks manage success and failure scenarios in asynchronous operations, ensuring robust error handling.
