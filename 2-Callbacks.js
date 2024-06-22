@@ -1,3 +1,5 @@
+// Create Callback Function 
+
 function Num1(callback){
     setTimeout(()=>{
         console.log('1')
@@ -31,7 +33,7 @@ function Num5(callback){
     callback()
 }
 
-// Num1();
+// Calling
 
 Num1(()=>{
     Num2(()=>{
