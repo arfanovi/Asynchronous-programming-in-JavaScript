@@ -126,3 +126,19 @@ Num1(()=>{
         })
     })
 })
+
+
+
+
+* Async/Await syntax
+
+    1. Declaring Async Functions
+        async function fetchData() {}
+    2. Using Await for Promises
+        async function fetchData() {
+        const response = await fetch('https://api.example.com/data');
+        const data = await response.json();
+        console.log(data);}
+
+    3. Handling Errors with Try/Catch
+    4. Returning Values from Async Functions
