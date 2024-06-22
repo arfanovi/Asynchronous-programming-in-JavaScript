@@ -61,7 +61,8 @@ Then, it sets a timer using setTimeout to print 'John' after waiting for 1 secon
 
 <!-- * Callback Function 
 ****************************** -->
+* CallBack Operation createPerson() and Apply callback
 
 This 'createPerson()' function, createPerson, takes a new person object (man) and a callback function (callback)
-  # using setTimeout
-  # then adds the new person to the Person array and calls the callback function.
+  => using setTimeout
+  => then adds the new person to the Person array and calls the callback function.
